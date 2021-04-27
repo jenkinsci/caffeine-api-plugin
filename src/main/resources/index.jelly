@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    <a href="https://github.com/ben-manes/caffeine/">Caffeine</a> api plugin for use by other Jenkins plugins.
+</div>
