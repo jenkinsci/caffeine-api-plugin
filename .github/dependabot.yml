@@ -6,7 +6,11 @@ updates:
     interval: weekly
   ignore:
     # Version 3 and higher required Java 11, so ignore those
-    - dependency-name: "caffeine"
+    - dependency-name: "com.github.ben-manes.caffeine:caffeine"
       versions: [ "[3.0.0)" ]
   reviewers:
   - "@jenkinsci/caffeine-api-plugin-developers"
+- package-ecosystem: github-actions
+  directory: /
+  schedule:
+    interval: daily
