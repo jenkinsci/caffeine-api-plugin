@@ -1,2 +1,1 @@
 _extends: .github
-tag-template: caffeine-api-$NEXT_MINOR_VERSION

@@ -10,4 +10,3 @@ updates:
       versions: [ "[3.0.0)" ]
   reviewers:
   - "@jenkinsci/caffeine-api-plugin-developers"
-
