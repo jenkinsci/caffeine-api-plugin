@@ -1,2 +1,2 @@
 # caffeine-api-plugin
-Caffeine packaged as a Jenkins plugin
+[Caffeine](https://github.com/ben-manes/caffeine) packaged as a Jenkins plugin
