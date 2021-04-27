@@ -6,7 +6,7 @@ updates:
     interval: weekly
   ignore:
     # Version 3 and higher required Java 11, so ignore those
-    - dependency-name: "express"
+    - dependency-name: "caffeine"
       versions: [ "[3.0.0)" ]
   reviewers:
   - "@jenkinsci/caffeine-api-plugin-developers"
