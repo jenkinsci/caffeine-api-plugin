@@ -12,4 +12,4 @@ for some more information see [this GitHub issue](https://github.com/ben-manes/c
 
 ## Maintainer Information
 
-This plugin does not use `maven-release-plugin` but is released automatically on merging to the `master` branch using [JEP-222](https://github.com/jenkinsci/jep/blob/master/jep/221/README.adoc).
+This plugin does not use `maven-release-plugin` but is released automatically on merging to the `master` branch using [JEP-229](https://github.com/jenkinsci/jep/blob/master/jep/229/README.adoc).
