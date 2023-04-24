@@ -21,7 +21,7 @@
   <properties>
     <revision>2.9.3</revision>
     <changelist>0-SNAPSHOT</changelist>
-    <jenkins.version>2.289.1</jenkins.version>
+    <jenkins.version>2.361.4</jenkins.version>
   </properties>
 
   <licenses>
@@ -58,7 +58,6 @@
     </dependency>
   </dependencies>
 
-
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>
@@ -71,5 +70,4 @@
       <url>https://repo.jenkins-ci.org/public/</url>
     </pluginRepository>
   </pluginRepositories>
-
 </project>
