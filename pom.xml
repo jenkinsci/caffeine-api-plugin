@@ -19,7 +19,7 @@
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
 
   <properties>
-    <revision>3.1.6</revision>
+    <revision>3.1.7</revision>
     <changelist>0-SNAPSHOT</changelist>
     <jenkins.version>2.361.4</jenkins.version>
   </properties>
