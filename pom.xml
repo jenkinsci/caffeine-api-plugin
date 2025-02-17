@@ -19,7 +19,7 @@
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
 
   <properties>
-    <revision>3.1.8</revision>
+    <revision>3.2.0</revision>
     <changelist>0-SNAPSHOT</changelist>
     <jenkins.version>2.440.3</jenkins.version>
   </properties>
@@ -47,8 +47,8 @@
       <exclusions>
         <!--  do not bring in the annotations -->
         <exclusion>
-          <groupId>org.checkerframework</groupId>
-          <artifactId>checker-qual</artifactId>
+          <groupId>org.jspecify</groupId>
+          <artifactId>jspecify</artifactId>
         </exclusion>
         <exclusion>
           <groupId>com.google.errorprone</groupId>
