@@ -21,7 +21,7 @@
   <properties>
     <revision>3.1.8</revision>
     <changelist>0-SNAPSHOT</changelist>
-    <jenkins.version>2.440.3</jenkins.version>
+    <jenkins.version>2.479.1</jenkins.version>
   </properties>
 
   <licenses>
