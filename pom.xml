@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
-    <version>5.19</version>
+    <version>5.24</version>
     <relativePath />
   </parent>
 
@@ -22,6 +22,8 @@
     <revision>3.2.2</revision>
     <changelist>0-SNAPSHOT</changelist>
     <jenkins.version>2.479.1</jenkins.version>
+    <hpi.bundledArtifacts>caffeine</hpi.bundledArtifacts>`
+    <hpi.strictBundledArtifacts>true</hpi.strictBundledArtifacts>
   </properties>
 
   <licenses>
