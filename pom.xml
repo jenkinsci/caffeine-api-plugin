@@ -22,6 +22,8 @@
     <revision>3.2.2</revision>
     <changelist>0-SNAPSHOT</changelist>
     <jenkins.version>2.479.1</jenkins.version>
+    <hpi.bundledArtifacts>caffeine</hpi.bundledArtifacts>`
+    <hpi.strictBundledArtifacts>true</hpi.strictBundledArtifacts>
   </properties>
 
   <licenses>
